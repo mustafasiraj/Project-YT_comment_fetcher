@@ -24,16 +24,14 @@ This Python project uses the YouTube Data API to fetch comments from YouTube vid
 ## 🔑 Setup
 - Get a YouTube API Key
 - Visit Google Cloud Console and enable the YouTube Data API v3. Create an API key and paste it in the script:
+  
 
 - python
-- Copy
-- Edit
 - api_key = "YOUR_API_KEY"
 - Add video IDs to the video_ids list:
+  
 
 - python
-- Copy
-- Edit
 - video_ids = ["VIDEO_ID_1", "VIDEO_ID_2"]
 
 ## 🚀 How to Run
