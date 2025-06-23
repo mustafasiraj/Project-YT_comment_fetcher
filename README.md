@@ -19,7 +19,6 @@ This Python project uses the YouTube Data API to fetch comments from YouTube vid
 
 Install the required package:
 
-```bash
 pip install google-api-python-client
 ##🔑 Setup
 Get a YouTube API Key
@@ -39,7 +38,6 @@ video_ids = ["VIDEO_ID_1", "VIDEO_ID_2"]
 🚀 How to Run
 Simply execute the script using Python:
 
-bash
 Copy
 Edit
 python your_script_name.py
@@ -71,7 +69,6 @@ Only public top-level comments are fetched (no replies to comments).
 API quota is limited (ensure you don't exceed your usage).
 
 ##📁 Project Structure
-bash
 Copy
 Edit
 youtube_comment_bot/
