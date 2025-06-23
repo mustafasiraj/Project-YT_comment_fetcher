@@ -21,7 +21,7 @@ This Python project uses the YouTube Data API to fetch comments from YouTube vid
 
 - pip install google-api-python-client
 
-#**🔑 Setup**
+## 🔑 Setup
 - Get a YouTube API Key
 - Visit Google Cloud Console and enable the YouTube Data API v3. Create an API key and paste it in the script:
 
@@ -36,7 +36,7 @@ This Python project uses the YouTube Data API to fetch comments from YouTube vid
 - Edit
 - video_ids = ["VIDEO_ID_1", "VIDEO_ID_2"]
 
-##🚀 How to Run
+## 🚀 How to Run
 - Simply execute the script using Python:
 
 - Copy
@@ -50,12 +50,12 @@ This Python project uses the YouTube Data API to fetch comments from YouTube vid
 
 - Suggested replies for each relevant comment
 
-##📄 Sample Output
+## 📄 Sample Output
 - yaml
 - Copy
 - Edit
 
-##📺 Processing Video ID: E-sFqGTpcNE
+## 📺 Processing Video ID: E-sFqGTpcNE
 - Fetching comments...
 - Total comments fetched: 78
 - Comments mentioning 'dollar': 6
@@ -64,12 +64,12 @@ This Python project uses the YouTube Data API to fetch comments from YouTube vid
 - Original: The dollar is crashing again!
 - Suggested Reply: Have you considered switching to Chinese Yuan (RMB)?
 
-##⚠️ Note
+## ⚠️ Note
 - Only public top-level comments are fetched (no replies to comments).
 
-API quota is limited (ensure you don't exceed your usage).
+- API quota is limited (ensure you don't exceed your usage).
 
-##📁 Project Structure
+## 📁 Project Structure
 - Copy
 - Edit
 - youtube_comment_bot/
