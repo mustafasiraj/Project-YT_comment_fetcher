@@ -3,7 +3,7 @@ import re
 import random
 
 # ========== CONFIGURATION ==========
-api_key = "AIzaSyALyIPnPGZGXUdJbz8H9ldVFVjixCLz9tY"  # <-- Replace this
+api_key = "Your_api_key"  # <-- Replace this
 video_ids = [  # <-- List your video IDs here    
         "E-sFqGTpcNE", # DW NEWS
     # Add more if needed
